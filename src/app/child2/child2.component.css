@@ -1,0 +1,10 @@
+/* Style for Child2 component */
+h3 {
+    color: #28a745;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #d4edda;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
